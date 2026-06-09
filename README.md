@@ -84,7 +84,7 @@ daitai has **39 first-class algebraic structure keywords** spanning from fundame
 ### Domain-Specific (AI/ML)
 `MOE` · `MULTIMODAL`
 
-### Higher Homotopy Theory (v1.3)
+### Higher Homotopy Theory (v1.4)
 `INFINITYGROUPOID` · `SHEAF` · `SPLITCOALGEBRA`
 
 ## Formal Verification
@@ -142,9 +142,9 @@ The compiler generates **type-aware WebAssembly** with:
 
 | Document | Language |
 |----------|----------|
-| [daitai-language-v1.3.md](docs/daitai-language-v1.4.md) | 🇸🇪 Svenska |
-| [daitai-language-v1.3.en.md](docs/daitai-language-v1.4.en.md) | 🇬🇧 English |
-| [daitai-language-v1.3.ja.md](docs/daitai-language-v1.4.ja.md) | 🇯🇵 日本語 |
+| [daitai-language-v1.4.md](daitai-language-v1.4.md) | 🇸🇪 Svenska |
+| [daitai-language-v1.4.en.md](daitai-language-v1.4.en.md) | 🇬🇧 English |
+| [daitai-language-v1.4.ja.md](daitai-language-v1.4.ja.md) | 🇯🇵 日本語 |
 
 ## VS Code Extension
 
@@ -155,17 +155,17 @@ A TextMate grammar for syntax highlighting is available in [`docs/vscode-daitai/
 ```
 daitai-language
 ├── Specification (this repo)
-│   ├── Language spec v1.3
+│   ├── Language spec v1.4
 │   ├── TextMate grammar
 │   └── EBNF grammar
-├── Compiler (daitai-compiler)
+├── Compiler (daitai-compiler) - forthcoming, on-request
 │   ├── Parser (indent-based + brace)
 │   ├── AST (algebraic sum types)
 │   ├── Generator → daitai / Rust / Go / TypeScript
 │   ├── WASM backend (WAT → binary)
 │   ├── Formal verifier (property-based)
 │   └── WASI support
-└── Algebraic Foundation (daitai-algebra)
+└── Algebraic Foundation (daitai-algebra) - forthcoming, on-request
     ├── Category theory
     ├── Homotopy type theory
     └── Topological guarantees
