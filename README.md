@@ -181,6 +181,7 @@ daitai-language
 | v1.2 | 2026-03-28 | +DOUBLECATEGORY, +MULTICATEGORY, +MOE, +MULTIMODAL. 36 algebraic keywords |
 | v1.4 | 2026-05-06 | +INFINITYGROUPOID, +SHEAF, +SPLITCOALGEBRA. 39 keywords. Module system, pipeline 
 operator, formal verification |
+| v1.5 | 2026-06-09 | +QuBit, +QuantumCircuit. 41 algebraic keywords |
 
 ## License
 
