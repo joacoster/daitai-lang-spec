@@ -10,7 +10,7 @@
 > An algebraic pseudolanguage for reasoning, specification, and transpilation.
 
 **Creator:** Joakim Cöster  
-**Version:** 1.3 · **Status:** Normative · **Date:** 2026-03-28
+**Version:** 1.4 · **Status:** Normative · **Date:** 2026-06-09
 
 ---
 
@@ -24,9 +24,9 @@ daitai-language is a **formally specified algebraic language** designed to expre
 | Rust | ✅ Full |
 | Go | ✅ Full |
 | WebAssembly (WAT/WASM) | ✅ Full |
-| Java | 🔧 Partial |
-| C++ | 🔧 Partial |
-| Python | 🔧 Partial |
+| Java | ✅ Full  |
+| C++ | ✅ Full  |
+| Python | ✅ Full  |
 
 ## Design Principles
 
@@ -102,7 +102,7 @@ The verifier generates random test values and checks each law over N samples, re
 
 **Supported structures:** Monoid, Group, Ring, Semiring, Lattice, Category, Functor, Monad.
 
-## Module System (v1.3)
+## Module System (v1.4)
 
 ```
 module Core:
