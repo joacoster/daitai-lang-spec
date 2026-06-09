@@ -9,7 +9,7 @@
 
 > An algebraic pseudolanguage for reasoning, specification, and transpilation.
 
-**Creator:** Joakim Cöster  
+**Creator:** Joakim Cöster, daitai.org, joakim@daitai.org
 **Version:** 1.4 · **Status:** Normative · **Date:** 2026-06-09
 
 ---
@@ -142,9 +142,9 @@ The compiler generates **type-aware WebAssembly** with:
 
 | Document | Language |
 |----------|----------|
-| [daitai-language-v1.3.md](docs/daitai-language-v1.3.md) | 🇸🇪 Svenska |
-| [daitai-language-v1.3.en.md](docs/daitai-language-v1.3.en.md) | 🇬🇧 English |
-| [daitai-language-v1.3.ja.md](docs/daitai-language-v1.3.ja.md) | 🇯🇵 日本語 |
+| [daitai-language-v1.3.md](docs/daitai-language-v1.4.md) | 🇸🇪 Svenska |
+| [daitai-language-v1.3.en.md](docs/daitai-language-v1.4.en.md) | 🇬🇧 English |
+| [daitai-language-v1.3.ja.md](docs/daitai-language-v1.4.ja.md) | 🇯🇵 日本語 |
 
 ## VS Code Extension
 
@@ -178,11 +178,12 @@ daitai-language
 | v1.0 | 2026-03-20 | Initial specification |
 | v1.1 | 2026-03-28 | Regex literals, ADTs, match/pattern matching, 30+ algebraic structures, closures, EBNF grammar |
 | v1.2 | 2026-03-28 | +DOUBLECATEGORY, +MULTICATEGORY, +MOE, +MULTIMODAL. 36 algebraic keywords |
-| v1.3 | 2026-03-28 | +INFINITYGROUPOID, +SHEAF, +SPLITCOALGEBRA. 39 keywords. Module system, pipeline operator, formal verification |
+| v1.4 | 2026-05-06 | +INFINITYGROUPOID, +SHEAF, +SPLITCOALGEBRA. 39 keywords. Module system, pipeline 
+operator, formal verification |
 
 ## License
 
-MIT © Joakim Cöster
+MIT © Joakim Cöster - daitai.org
 
 ---
 
