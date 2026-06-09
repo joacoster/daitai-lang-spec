@@ -10,7 +10,7 @@
 > An algebraic pseudolanguage for reasoning, specification, and transpilation.
 
 **Creator:** Joakim Cöster, daitai.org, joakim@daitai.org
-**Version:** 1.4 · **Status:** Normative · **Date:** 2026-06-09
+**Version:** 1.5 · **Status:** Normative · **Date:** 2026-06-09
 
 ---
 
@@ -145,6 +145,7 @@ The compiler generates **type-aware WebAssembly** with:
 | [daitai-language-v1.4.md](daitai-language-v1.4.md) | 🇸🇪 Svenska |
 | [daitai-language-v1.4.en.md](daitai-language-v1.4.en.md) | 🇬🇧 English |
 | [daitai-language-v1.4.ja.md](daitai-language-v1.4.ja.md) | 🇯🇵 日本語 |
+| [v1.5-addendum-qubits-gates.md](v1.5-addendum-qubits-gates.md) | 🇬🇧 English |
 
 ## VS Code Extension
 
